@@ -1,22 +1,18 @@
 # Hola, me llamo Victor 👻
 
-Actualmente soy estudiante de Ingeniería de Software. Me emociona el mundo de la programación y la tecnología. Aceptando nuevos retos para progresar más en mi carrera como Desarrollador de Software. Abierto a aprender cosas nuevas no solo relacionadas al mundo de la programación, sino también a metodologías de trabajo e interacciones entre las personas para tener un mejor desarrollo personal.
+Bienvendio a mi pequeño rincón, espero sea de tu agrado, ¿Café? ☕
 
 ## 💻 Tecnologías: 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-=============
+![](https://img.shields.io/badge/HTML--orange?style=for-the-badge&labelColor=191818)
+![](https://img.shields.io/badge/CSS--0a7cfa?style=for-the-badge&labelColor=191818&logo=css3)
 
-[![ReactJS](https://img.shields.io/badge/react-61DBFB?logo=react&style=for-the-badge&logoColor=white&labelColor=101010)]()
+![](https://img.shields.io/badge/Tailwind--2dd7ec?style=for-the-badge&labelColor=191818)
 
-=============
+![](https://img.shields.io/badge/JavaScript--f5f232?style=for-the-badge&labelColor=191818)
+![](https://img.shields.io/badge/REACT--85fcf9?style=for-the-badge&labelColor=191818)
 
-
-
-=============
-[![Figma](https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+![](https://img.shields.io/badge/FIGMA--de85fc?style=for-the-badge&labelColor=191818)
+![](https://img.shields.io/badge/Blender--e97b10?style=for-the-badge&labelColor=191818)
 
 
 ## 🎈 Hobbies: 
