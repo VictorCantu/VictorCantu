@@ -9,16 +9,15 @@ Actualmente soy estudiante de Ingeniería de Software. Me emociona el mundo de l
 =============
 
 [![ReactJS](https://img.shields.io/badge/react-61DBFB?logo=react&style=for-the-badge&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+
 =============
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+
 =============
 [![Figma](https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
+
 
 ## 🎈 Hobbies: 
 - 👨‍💻 Programar
